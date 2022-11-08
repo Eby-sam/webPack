@@ -1,0 +1,7 @@
+@import "toto.css";
+
+body {
+    background-color: blue;
+    background-image: url('../images/téléchargement.jpg');
+    background-repeat: no-repeat;
+}
