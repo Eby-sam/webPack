@@ -2,12 +2,12 @@
 
 body {
     background-color: blue;
-    background-image: url('../images/téléchargement.jpg');
+    background-image: url('../images/letsGO.png');
     background-repeat: no-repeat;
     opacity: 75%;
 }
 #divImg {
-    background-image: url('../images/téléchargement.jpg');
+    background-image: url('../images/letsGO.png');
     width: 450px;
     height: 450px;
     margin : auto;
